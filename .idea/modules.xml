@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeaderElection.iml" filepath="$PROJECT_DIR$/LeaderElection.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/atomix-dist-3.0.8/lib/system/system.iml" filepath="$USER_HOME$/Downloads/atomix-dist-3.0.8/lib/system/system.iml" />
+    </modules>
+  </component>
+</project>
